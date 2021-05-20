@@ -6,7 +6,10 @@ namespace Learning_C_sharp_Algos
     {
         static void Main(string[] args)
         {
-            ExecuteSinglyLinkedList.Execute(); 
+            // ExecuteSinglyLinkedList.Execute();
+            // ExecuteStack.Execute();
+            // ExecuteGenericStack.Execute(); 
+            ExecuteQueue.Execute(); 
         }
     }
 }
